@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sym_footprint")(type "KiCad")(uri "C:/Users/posta/Desktop/KiCad files/AB amplifier/KiCad/mono_amplifier/power supply/lib/sym_footprint")(options "")(descr ""))
+  (lib (name "mono_amplifier")(type "KiCad")(uri "C:/Users/posta/Desktop/KiCad files/AB amplifier/KiCad/mono_amplifier/mono_amplifier")(options "")(descr ""))
+)

@@ -1,0 +1,60 @@
+LTspice 24.1.8 for Windows
+Circuit: C:\Users\posta\Desktop\KiCad files\AB amplifier\Spice\AB amplifier v2.net
+Start Time: Wed Feb  4 19:20:46 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+Gmin = 8.35967e-07
+vernier = 0.0416667
+Gmin = 7.61496e-07
+vernier = 0.0555555
+vernier = 0.074074
+Gmin = 6.51403e-07
+vernier = 0.0987653
+vernier = 0.131687
+Gmin = 5.08415e-07
+vernier = 0.175583
+Gmin = 3.45149e-07
+vernier = 0.23411
+vernier = 0.312147
+Gmin = 1.8166e-07
+vernier = 0.416196
+vernier = 0.554928
+Gmin = 6.65608e-08
+vernier = 0.739903
+Gmin = 1.4298e-08
+vernier = 0.986537
+vernier = 1
+Gmin = 1.56028e-09
+Gmin = 1.67533e-10
+Gmin = 1.79888e-11
+Gmin = 1.93153e-12
+Gmin = 2.07396e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.702 seconds.
+
+Files loaded:
+C:\Users\posta\Desktop\KiCad files\AB amplifier\Spice\AB amplifier v2.net
+C:\Users\posta\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\posta\AppData\Local\LTspice\lib\cmp\standard.bjt
+C:\Users\posta\AppData\Local\LTspice\lib\sub\ADI.lib
+

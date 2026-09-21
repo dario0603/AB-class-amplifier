@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "85260284-a3b5-4fd8-ba31-f58b4b25a181")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 107.95 38.1)
+		(size 43.18 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2fd06ff0-e129-4775-82a2-7c8aebe54b3b")
+		(property "Sheetname" "Power supply"
+			(at 107.95 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../power supply/power supply.kicad_sch"
+			(at 107.95 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mono_amplifier"
+				(path "/85260284-a3b5-4fd8-ba31-f58b4b25a181"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 38.1)
+		(size 43.18 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aea72357-610e-48bb-81c3-79d43584e9fc")
+		(property "Sheetname" "AB amplifier"
+			(at 53.34 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../AB_amp/AB_amp.kicad_sch"
+			(at 53.34 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mono_amplifier"
+				(path "/85260284-a3b5-4fd8-ba31-f58b4b25a181"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 53.34 90.17)
+		(size 43.18 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b09cf620-3eb9-4d96-a5ea-d2968c1b200b")
+		(property "Sheetname" "Three band equalizer"
+			(at 53.34 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "../audio equalizer/audio equalizer/audio equalizer.kicad_sch"
+			(at 53.34 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "mono_amplifier"
+				(path "/85260284-a3b5-4fd8-ba31-f58b4b25a181"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
