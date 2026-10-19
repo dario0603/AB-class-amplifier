@@ -150,7 +150,10 @@ The PCB design aims to minimize unwanted parasitic effects and provide suitable 
 
 The following image shows the PCB layout designed in KiCad, including component placement and routing.
 
-![PCB layout of the Class-AB audio power amplifier](img/PCB_design.png)
+
+<p align="center">
+  <img src="img/PCB_design.png" alt="PCB layout of the Class-AB audio power amplifier" />
+</p>
 
 ### 2. 3D PCB View
 
